@@ -8,3 +8,8 @@
 02/28/2022  09:39 PM                 0 text.txt
                1 File(s)              0 bytes
                2 Dir(s)  266,922,500,096 bytes free
+
+
+the file has to be comminited by end of the day
+
+no matter what everyday when leaving files has to be commited 
