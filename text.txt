@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E453-DD64
+
+ Directory of C:\Users\srini\Desktop\Jenkins\Git Project
+
+02/28/2022  09:39 PM    <DIR>          .
+02/28/2022  09:38 PM    <DIR>          ..
+02/28/2022  09:39 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  266,922,500,096 bytes free
